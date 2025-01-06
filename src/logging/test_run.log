@@ -1,0 +1,65 @@
+2025-01-06T16:21:40+05:30 [info]: Navigated to login.salesforce.com
+2025-01-06T16:22:49+05:30 [info]: Navigated to login.salesforce.com
+2025-01-06T16:22:49+05:30 [info]: Navigated to login.salesforce.com
+2025-01-06T16:22:50+05:30 [info]: Filled username
+2025-01-06T16:22:50+05:30 [info]: Filled pasword
+2025-01-06T16:22:51+05:30 [info]: Clicked login button
+2025-01-06T16:56:25+05:30 [info]: Navigated to login.salesforce.com
+2025-01-06T16:56:25+05:30 [info]: Filled username
+2025-01-06T16:56:25+05:30 [info]: Filled pasword
+2025-01-06T16:56:28+05:30 [info]: Clicked login button
+2025-01-06T16:56:28+05:30 [info]: Navigated to login.salesforce.com
+2025-01-06T16:56:36+05:30 [info]: Service Title is visible
+2025-01-06T17:02:02+05:30 [info]: Test for Contact Creation is started...
+2025-01-06T17:02:03+05:30 [info]: Navigated to login.salesforce.com
+2025-01-06T17:02:03+05:30 [info]: Filled username
+2025-01-06T17:02:03+05:30 [info]: Filled pasword
+2025-01-06T17:02:05+05:30 [info]: Test for Contact Creation is started...
+2025-01-06T17:02:05+05:30 [info]: Clicked login button
+2025-01-06T17:02:06+05:30 [info]: Navigated to login.salesforce.com
+2025-01-06T17:02:06+05:30 [info]: Filled username
+2025-01-06T17:02:06+05:30 [info]: Filled pasword
+2025-01-06T17:02:08+05:30 [info]: Clicked login button
+2025-01-06T17:02:15+05:30 [info]: Service Title is visible
+2025-01-06T17:02:15+05:30 [info]: Service Title is visible
+2025-01-06T17:07:57+05:30 [info]: Navigated to login.salesforce.com
+2025-01-06T17:07:57+05:30 [info]: Navigated to login.salesforce.com
+2025-01-06T17:07:58+05:30 [info]: Filled username
+2025-01-06T17:07:58+05:30 [info]: Filled pasword
+2025-01-06T17:08:01+05:30 [info]: Clicked login button
+2025-01-06T17:08:12+05:30 [info]: Service Title is visible
+2025-01-06T17:08:12+05:30 [info]: Test for Contact Creation is completed
+2025-01-06T17:08:13+05:30 [info]: Auth state is saved
+2025-01-06T17:21:37+05:30 [info]: Test for Contact Creation is started...
+2025-01-06T17:21:37+05:30 [info]: Navigated to login.salesforce.com
+2025-01-06T17:21:37+05:30 [info]: Filled username
+2025-01-06T17:21:37+05:30 [info]: Filled pasword
+2025-01-06T17:21:40+05:30 [info]: Clicked login button
+2025-01-06T17:21:41+05:30 [info]: Test for Contact Creation is started...
+2025-01-06T17:21:41+05:30 [info]: Navigated to login.salesforce.com
+2025-01-06T17:21:41+05:30 [info]: Filled username
+2025-01-06T17:21:41+05:30 [info]: Filled pasword
+2025-01-06T17:21:44+05:30 [info]: Clicked login button
+2025-01-06T17:21:50+05:30 [info]: Service Title is visible
+2025-01-06T17:21:51+05:30 [info]: Service Title is visible
+2025-01-06T17:23:37+05:30 [info]: Test for Contact Creation is started...
+2025-01-06T17:23:37+05:30 [info]: Navigated to login.salesforce.com
+2025-01-06T17:23:38+05:30 [info]: Filled username
+2025-01-06T17:23:38+05:30 [info]: Test for Contact Creation is started...
+2025-01-06T17:23:38+05:30 [info]: Filled pasword
+2025-01-06T17:23:39+05:30 [info]: Navigated to login.salesforce.com
+2025-01-06T17:23:39+05:30 [info]: Filled username
+2025-01-06T17:23:39+05:30 [info]: Filled pasword
+2025-01-06T17:23:40+05:30 [info]: Clicked login button
+2025-01-06T17:23:41+05:30 [info]: Clicked login button
+2025-01-06T17:23:52+05:30 [info]: Service Title is visible
+2025-01-06T17:23:54+05:30 [info]: Service Title is visible
+2025-01-06T17:23:56+05:30 [info]: Contacts Tab is visible
+2025-01-06T17:23:56+05:30 [info]: Contacts Tab is clicked
+2025-01-06T17:23:57+05:30 [info]: Contacts Tab is visible
+2025-01-06T17:23:57+05:30 [info]: Contacts Tab is clicked
+2025-01-06T17:24:02+05:30 [info]: New button is clicked
+2025-01-06T17:24:02+05:30 [info]: New button is clicked
+2025-01-06T17:24:06+05:30 [info]: First name is filled as red
+2025-01-06T17:24:07+05:30 [info]: Last name is filled as black
+2025-01-06T17:24:08+05:30 [info]: Save Button is clicked
